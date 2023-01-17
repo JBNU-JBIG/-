@@ -3,7 +3,9 @@
 #논문 서치 능력 및 도메인 확장을 위한 논문스터디
 
 ### Current MEMBER
-[황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234), [권주원](https://github.com/jwk1121)(potential participant)
+[황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234)
+
+[권주원](https://github.com/jwk1121)(potential participant)
 
 ### RULE
 1) 매주 금요일 오전 9시 한번씩 논문 1개 리뷰 with some materials(like PPT)
