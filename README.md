@@ -13,6 +13,12 @@
 3) [Issues](https://github.com/JBNU-JBIG/Paper-Review-Study/issues) : comment로 materials 첨부(link를 이용해서) + 한 주간 읽었던 논문 중에 흥미롭거나 소개해주고 싶은거 간단 요약과 링크
 4) Coding Assignments : 1) Backpropagation with Numpy 구현 2) Transformer 구현 3)[Backjun coding problem](https://www.acmicpc.net/) 4) ETC.
 
+### Purpose
+- 발표능력 향상
+- 논문 읽는 속도 향상
+- 개인 연구를 위한 도메인 확장
+- 디스커션을 통한 깊은 이해
+
 ### History
 - 2023/01/20 : 미팅 예정
 - 2023/01/06 : Alphacode 논문 리뷰 및 학습방향 설정
