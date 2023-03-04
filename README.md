@@ -21,5 +21,9 @@
 - 디스커션을 통한 깊은 이해
 
 ### History
-- 2023/01/20 : 미팅 예정
+- 2023/03/04 : `sanha` - Generative Adversarial Imitation learning(GAIL) , `geonwoo` - difussion model , `hoyeon` - Genarative adversarial network
+- 2023/02/23 : `sanha` - A study of inverse reinforcement learning and its implementation , `geonwoo` - We need to know confidence of prediction on dataset, `hoyeon` - Autoencoding Variationa Bayes
+- 2023/02/10 : `sanha` - Graphs Constraints and Search for the Abstraction and Reasoning Corpus , `geonwoo` - Attention is all you need!
+- 2023/02/03 : `sanha` - Stocastic prediction of multi agent interaction from partial observations , `geonwoo` - A Tutorial on Bayesian Optimization, `hoyeon` - Playing Atari with Deep Reinforcement Learning
+- 2023/01/20 : object centric learning with slot attention 리뷰
 - 2023/01/06 : Alphacode 논문 리뷰 및 학습방향 설정
