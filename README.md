@@ -5,6 +5,8 @@
 ### Current MEMBER
 [황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234)
 
+[백인걸]()`new member!`
+
 [권주원](https://github.com/jwk1121)(potential participant)
 
 ### RULE
