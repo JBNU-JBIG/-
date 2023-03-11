@@ -3,11 +3,10 @@
 #논문 서치 능력 및 도메인 확장을 위한 논문스터디
 
 ### Current MEMBER
-[황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234)
+[황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234), 
+[권주원](https://github.com/jwk1121)
 
 [백인걸]()`new member!`
-
-[권주원](https://github.com/jwk1121)(potential participant)
 
 ### RULE
 1) 매주 금요일 오후 9시(Flexible) 논문 1개씩 리뷰 with some materials(like PPT)
@@ -23,6 +22,11 @@
 - 디스커션을 통한 깊은 이해
 
 ### History
+- 2023/03/11
+  - `sanha` - Visual prompting via image inpainting
+  - `geonwoo` - Variational Inference: A Review for Statisticians
+  - `hoyeon` - Sequence to Sequence Learning with Neural Networks
+  - `Ingeol` - Few-shot learning
 - 2023/03/04 
   - `sanha` - Generative Adversarial Imitation learning(GAIL)
   - `geonwoo` - difussion model
