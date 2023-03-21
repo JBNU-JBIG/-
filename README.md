@@ -22,6 +22,11 @@
 - 디스커션을 통한 깊은 이해
 
 ### History
+- 2023/03/21
+  - `hoyeon` - Batch normalization
+  - `ingeol` - BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding
+  - `sanha` - Improving Language Understanding by Generative Pre-Training (GPT1)
+  - `juwon` - Fully Convolution Network
 - 2023/03/11
   - `sanha` - Visual prompting via image inpainting
   - `geonwoo` - Variational Inference: A Review for Statisticians
