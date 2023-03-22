@@ -9,7 +9,7 @@
 [백인걸]()`new member!`
 
 ### RULE
-1) 매주 금요일 오후 9시(Flexible) 논문 1개씩 리뷰 with some materials(like PPT)
+1) `Changed!`매주 화요일 오후 10시30분(Flexible) 논문 1개씩 리뷰 with some materials(like PPT)
 2) Discord 채널 - https://discord.gg/vVjq8XwqPz
 3) [Issues](https://github.com/JBNU-JBIG/Paper-Review-Study/issues) : comment로 materials 첨부(link를 이용해서) + 한 주간 읽었던 논문 중에 흥미롭거나 소개해주고 싶은거 간단 요약과 링크
 4) Coding Assignments : 1) Backpropagation with Numpy 구현 2) Transformer 구현 3)[Backjun coding problem](https://www.acmicpc.net/) 4) ETC.
