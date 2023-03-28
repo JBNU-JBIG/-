@@ -23,6 +23,12 @@
 - 디스커션을 통한 깊은 이해
 
 ### History
+- 2023/03/28
+  - `sanha` - Masked AutoEncoder(MAE)
+  - `geonwoo` - Comprehensive survey about GNN
+  - `hoyeon` - Neural Machine Translation by Jointly learning to Align and Translate
+  - `Ingeol` - End-to-end Neural Coreference Resolution
+  - `juwon`- U-net
 - 2023/03/21
   - `hoyeon` - Batch normalization
   - `ingeol` - BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding
