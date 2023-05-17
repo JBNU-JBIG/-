@@ -23,6 +23,12 @@
 - 디스커션을 통한 깊은 이해
 
 ### History
+- 2023/05/17
+  - `sanha` - Decision Transformer via Reinforcement learning
+  - `hoyeon` - AutoAugment: Learning Augmentation Strategies from Data
+  - `Ingeol` - Transformer XL
+  - `juwon`- DCGAN
+  - 
 - 2023/03/28
   - `sanha` - Masked AutoEncoder(MAE)
   - `geonwoo` - Comprehensive survey about GNN
