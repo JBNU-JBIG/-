@@ -23,6 +23,11 @@
 - 디스커션을 통한 깊은 이해
 
 ### History
+- 2023/07/12
+  - `sanha` - Flow Network based Generative Models for Non-iterative Diverse Candidate Generation
+- 2023/06/28
+  - `geonwoo` - ??
+  - `ingeol` - ??
 - 2023/05/17
   - `sanha` - Decision Transformer via Reinforcement learning
   - `hoyeon` - AutoAugment: Learning Augmentation Strategies from Data
