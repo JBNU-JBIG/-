@@ -24,7 +24,7 @@
 - 2023/07/12
   - `sanha` - Flow Network based Generative Models for Non-iterative Diverse Candidate Generation
 - 2023/06/28
-  - `geonwoo` - ??
+  - `geonwoo` - INTEGER QUANTIZATION FOR DEEP LEARNING INFERENCE: PRINCIPLES AND EMPIRICAL EVALUATION
   - `ingeol` - Multi-Task Deep Neural Networks for Natural Language Understanding, GPT2
 - 2023/05/17
   - `sanha` - Decision Transformer via Reinforcement learning
