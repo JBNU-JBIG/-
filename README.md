@@ -25,7 +25,7 @@
   - `sanha` - Flow Network based Generative Models for Non-iterative Diverse Candidate Generation
 - 2023/06/28
   - `geonwoo` - ??
-  - `ingeol` - ??
+  - `ingeol` - Multi-Task Deep Neural Networks for Natural Language Understanding, GPT2
 - 2023/05/17
   - `sanha` - Decision Transformer via Reinforcement learning
   - `hoyeon` - AutoAugment: Learning Augmentation Strategies from Data
