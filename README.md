@@ -4,9 +4,7 @@
 
 ### Current MEMBER
 [황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234), 
-[권주원](https://github.com/jwk1121)
-
-[백인걸]()`new member!`
+[권주원](https://github.com/jwk1121), [백인걸]()
 
 ### RULE
 1) `Changed!`매주 화요일 오후 10시30분(Flexible) 논문 1개씩 리뷰 with some materials(like PPT)
