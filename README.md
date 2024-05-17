@@ -1,6 +1,6 @@
 # JBIG 논문스터디
 
-#논문 서치 능력 및 도메인 확장을 위한 논문스터디
+# 논문 서치 능력 및 도메인 확장을 위한 논문스터디
 
 ### Current MEMBER
 [황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234), 
@@ -24,7 +24,7 @@
 - 2023/07/12
   - `sanha` - Flow Network based Generative Models for Non-iterative Diverse Candidate Generation
 - 2023/06/28
-  - `geonwoo` - INTEGER QUANTIZATION FOR DEEP LEARNING INFERENCE: PRINCIPLES AND EMPIRICAL EVALUATION
+  - `keonwoo` - INTEGER QUANTIZATION FOR DEEP LEARNING INFERENCE: PRINCIPLES AND EMPIRICAL EVALUATION
   - `ingeol` - Multi-Task Deep Neural Networks for Natural Language Understanding, GPT2
 - 2023/05/17
   - `sanha` - Decision Transformer via Reinforcement learning
@@ -34,7 +34,7 @@
   - 
 - 2023/03/28
   - `sanha` - Masked AutoEncoder(MAE)
-  - `geonwoo` - Comprehensive survey about GNN
+  - `keonwoo` - Comprehensive survey about GNN
   - `hoyeon` - Neural Machine Translation by Jointly learning to Align and Translate
   - `Ingeol` - End-to-end Neural Coreference Resolution
   - `juwon`- U-net
@@ -45,23 +45,23 @@
   - `juwon` - Fully Convolution Network
 - 2023/03/11
   - `sanha` - Visual prompting via image inpainting
-  - `geonwoo` - Variational Inference: A Review for Statisticians
+  - `keonwoo` - Variational Inference: A Review for Statisticians
   - `hoyeon` - Sequence to Sequence Learning with Neural Networks
   - `Ingeol` - Few-shot learning
 - 2023/03/04 
   - `sanha` - Generative Adversarial Imitation learning(GAIL)
-  - `geonwoo` - difussion model
+  - `keonwoo` - difussion model
   - `hoyeon` - Genarative adversarial network
 - 2023/02/23 
   - `sanha` - A study of inverse reinforcement learning and its implementation 
-  - `geonwoo` - We need to know confidence of prediction on dataset
+  - `keonwoo` - We need to know confidence of prediction on dataset
   - `hoyeon` - Autoencoding Variationa Bayes
 - 2023/02/10
   - `sanha` - Graphs Constraints and Search for the Abstraction and Reasoning Corpus
-  - `geonwoo` - Attention is all you need!
+  - `keonwoo` - Attention is all you need!
 - 2023/02/03
   - `sanha` - Stocastic prediction of multi agent interaction from partial observations
-  - `geonwoo` - A Tutorial on Bayesian Optimization
+  - `keonwoo` - A Tutorial on Bayesian Optimization
   - `hoyeon` - Playing Atari with Deep Reinforcement Learning
 - 2023/01/20
   - `sanha` - object centric learning with slot attention
