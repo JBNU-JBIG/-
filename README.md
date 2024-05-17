@@ -1,6 +1,6 @@
 # JBIG 논문스터디
 
-# 논문 서치 능력 및 도메인 확장을 위한 논문스터디
+## 논문 서치 능력 및 도메인 확장을 위한 논문스터디
 
 ### Current MEMBER
 [황산하](https://github.com/hsh6449), [노건우](https://github.com/ro-ko), [신호연](https://github.com/hoyeon1234), 
